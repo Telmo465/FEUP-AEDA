@@ -1,0 +1,6 @@
+Fernando Santos | 10/10/1954 | 1000 | 17
+3 | 4 | 5 | 6
+Paulo Bento | 20/06/1969 | 800 | 4
+1
+Luis Scolari | 09/11/1948 | 600 | 8
+2
